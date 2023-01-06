@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pylonsproject.org/about-pylons-project.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/about-artwork.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/community-coding-style-standards.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/colors.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/community-code-of-conduct.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/about-contact.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/community-support.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/community-how-to-contribute.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/community-how-to-participate.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/license.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/projects.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/about-pylons-framework.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/community-sponsors.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/community-unit-testing-guidelines.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://pylonsproject.org/</loc>
+  </url>
+  
+</urlset>
